@@ -11,4 +11,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/spring-boot-web-application-1.0-SNAPSHOT.jar
+    - target/student-services-security-0.0.1-SNAPSHOT.jar
